@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.135.163:8081/repository/paytm-releases/</url>
+	      <url>http://13.126.249.16:8081/repository/Apttus_release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.135.163:8081/repository/paytm-snapshot/</url>
+	      <url>http://13.126.249.16:8081/repository/Apttus-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
